@@ -45,13 +45,13 @@ Sales, customers, products, and markets data sourced from company transactional 
 ## 🖼 Dashboard Preview
 
 ### Key Insights
-![Key Insights](key_insights.png)
+![Key Insights](Key_Insights.png)
 
 ### Performance Insights
-![Performance Insights](performance_insights.png)
+![Performance Insights](Performance_Insights.png)
 
 ### Profit Analysis
-![Profit Analysis](profit_analysis.png)
+![Profit Analysis](Profit_Analysis.png)
 
 ---
 
